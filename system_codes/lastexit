@@ -1,0 +1,4 @@
+select=source(SPCD),-auto
+vis=2020-10-20_092713.s3flagpy
+nxy=2
+device=/xs
